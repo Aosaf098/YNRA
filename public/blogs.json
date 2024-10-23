@@ -5,7 +5,7 @@
         "profilePic": "https://i2-prod.liverpoolecho.co.uk/incoming/article4034649.ece/BINARY/JamesPearce.jpg",
         "authorName": "James Pearce",
         "postingTime": "2024-10-22T14:30:00Z",
-        "readingTime": "5 min",
+        "readingTime": 5,
         "title": "Liverpool Secures a Historic Win Against Manchester United",
         "tags": {
           "hashtags": ["#Liverpool", "#PremierLeague", "#Football"],
@@ -18,7 +18,7 @@
         "profilePic": "https://pbs.twimg.com/profile_images/1679928251601305625/Zfeh7sgr_400x400.jpg",
         "authorName": "Melissa Reddy",
         "postingTime": "2024-10-21T10:15:00Z",
-        "readingTime": "3 min",
+        "readingTime": 3,
         "title": "Transfer Rumors: Liverpool Eyeing Federico Chiesa",
         "tags": {
           "hashtags": ["#Transfers", "#Liverpool", "#Rumors"],
@@ -31,7 +31,7 @@
         "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXQiFzNpSImThMWY2NcI-vFK77Pac2Q6wqCA&s",
         "authorName": "David Ornstein",
         "postingTime": "2024-10-20T08:45:00Z",
-        "readingTime": "4 min",
+        "readingTime": 4,
         "title": "Arne Slot Discusses Tactics for Upcoming Season",
         "tags": {
           "hashtags": ["#Slot", "#Liverpool", "#Interview"],
@@ -44,7 +44,7 @@
         "profilePic": "https://www.thetimes.com/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F32c6a204-6dff-11e7-91b4-8977b98727e9.png?crop=2863%2C2863%2C1403%2C1403&resize=200",
         "authorName": "Paul Joyce",
         "postingTime": "2024-10-19T18:00:00Z",
-        "readingTime": "6 min",
+        "readingTime": 6,
         "title": "Liverpool Prepares for Champions League Clash against Real Madrid",
         "tags": {
           "hashtags": ["#Liverpool", "#ChampionsLeague", "#Football"],
@@ -57,7 +57,7 @@
         "profilePic": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F965ef43d-3c1f-40e6-a56f-7a585a24186f_2048x1364.jpeg",
         "authorName": "Fabrizio Romano",
         "postingTime": "2024-10-18T12:30:00Z",
-        "readingTime": "3 min",
+        "readingTime": 3,
         "title": "Injury Update: Key Liverpool Players Set to Return",
         "tags": {
           "hashtags": ["#Liverpool", "#InjuryUpdate", "#Football"],
@@ -70,7 +70,7 @@
         "profilePic": "https://pbs.twimg.com/profile_images/683931964408225792/TUHhzKFp_400x400.jpg",
         "authorName": "Indy Kalia",
         "postingTime": "2024-10-17T09:20:00Z",
-        "readingTime": "4 min",
+        "readingTime": 4,
         "title": "Liverpool's Intense Training Ahead of the Weekend Fixture against Arsenal",
         "tags": {
           "hashtags": ["#Liverpool", "#Training", "#Football"],
@@ -83,7 +83,7 @@
         "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCFrsDAkOGorRmyXeiIvdDjnaieUXkp03DIg&s",
         "authorName": "Ian Doyle",
         "postingTime": "2024-10-16T14:40:00Z",
-        "readingTime": "5 min",
+        "readingTime": 5,
         "title": "Liverpool Legends: Celebrating the Career of Steven Gerrard",
         "tags": {
           "hashtags": ["#Liverpool", "#StevenGerrard", "#Legends"],
@@ -96,7 +96,7 @@
         "profilePic": "https://www.telegraph.co.uk/content/dam/Author%20photos/Chris%20Bascombe%20Sept%202021-xlarge.png",
         "authorName": "Chris Bascombe",
         "postingTime": "2024-10-15T16:00:00Z",
-        "readingTime": "4 min",
+        "readingTime": 4,
         "title": "Jurgen Klopp's Strategic Shift: How Liverpool Is Evolving",
         "tags": {
           "hashtags": ["#Klopp", "#Liverpool", "#Tactics"],
