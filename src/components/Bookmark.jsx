@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 
 const Bookmark = ({bookmark}) => {
     const {title} = bookmark
@@ -6,6 +7,10 @@ const Bookmark = ({bookmark}) => {
       <h1 className="font-prociono font-bold text-xl">{title}</h1>
     </div>
   )
+}
+
+Bookmark.propTypes = {
+    bookmark: PropTypes.object
 }
 
 export default Bookmark

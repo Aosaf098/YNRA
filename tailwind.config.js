@@ -9,6 +9,9 @@ export default {
       fontFamily: {
         prociono: ['Prociono', 'serif'],
       },
+      colors: {
+        'navbar': '#96CEB4'
+      },
     },
   },
   plugins: [],
